@@ -1,4 +1,4 @@
-<course advertised_start="Anytime" display_name="Mine Automation and Virtual Reality" end="&quot;2016-05-31T00:00:00+00:00&quot;" enrollment_end="&quot;2016-05-31T00:00:00+00:00&quot;" enrollment_start="&quot;2016-04-01T00:00:00+00:00&quot;" language="en" start="&quot;2016-04-01T00:00:00+00:00&quot;">
+<course advertised_start="Anytime" course_image="icons_Mine Automation.png" display_name="Mine Automation and Virtual Reality" end="null" enrollment_end="null" enrollment_start="null" language="en" start="&quot;2016-04-01T00:00:00+00:00&quot;">
   <chapter url_name="Calibration_of_Inclined_Tube_Manometer_by_the_use_of_Askania_Minimeter"/>
   <chapter url_name="Familiarization_with_Assmann_Psychrometer_and_Estimation_of_Psychrometric_Properties_of_Mine_"/>
   <chapter url_name="Establishment_of_the_Relationship_between_Kata_Cooling_Power_and_Air_Velocity"/>

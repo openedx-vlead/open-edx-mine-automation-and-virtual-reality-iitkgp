@@ -1,1 +1,26 @@
-{}
+{
+    "icons_Mine_Automation.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "MECH27", 
+            "name": "icons_Mine_Automation.png", 
+            "org": "IIT-Kharagpur", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "icons_Mine Automation.png", 
+        "filename": "asset-v1:IIT-Kharagpur+MECH27+Anytime+type@asset+block@icons_Mine_Automation.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "IIT-Kharagpur", 
+            "MECH27", 
+            "thumbnail", 
+            "icons_Mine_Automation-png.jpg", 
+            null
+        ]
+    }
+}
